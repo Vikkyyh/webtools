@@ -1,0 +1,23 @@
+p {
+    color:  palevioletred;
+    font-family: Arial, 'Times New Roman', sans-serif;   
+    /* additional properties... */
+}
+
+	h2 {
+		background-color: powderblue;
+	}
+    h1 {
+		background-color: peachpuff;
+	}
+    dl {
+        background-color: aqua;
+    }
+   
+    nav {
+        font-weight: 800;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+a:hover{color: red;}
+
